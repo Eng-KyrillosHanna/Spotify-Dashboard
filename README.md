@@ -8,11 +8,11 @@ An interactive Power BI dashboard that analyzes Spotify chart data — covering 
 
 | Home | Overview |
 |------|----------|
-| ![Home](Home.png) | ![Overview](Overview.png) |
+| ![Home](screenshots/Home.png) | ![Overview](screenshots/Overview.png) |
 
 | Artists | Songs |
 |---------|-------|
-| ![Artists](Artist.png) | ![Songs](Song.png) |
+| ![Artists](screenshots/Artist.png) | ![Songs](screenshots/Song.png) |
 
 ---
 

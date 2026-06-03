@@ -8,11 +8,11 @@ An interactive Power BI dashboard that analyzes Spotify chart data — covering 
 
 | Home | Overview |
 |------|----------|
-| ![Home](screenshots/Home.png) | ![Overview](screenshots/Overview.png) |
+| ![Home](Home.png) | ![Overview](Overview.png) |
 
 | Artists | Songs |
 |---------|-------|
-| ![Artists](screenshots/Artist.png) | ![Songs](screenshots/Song.png) |
+| ![Artists](Artist.png) | ![Songs](Song.png) |
 
 ---
 
@@ -140,7 +140,7 @@ spotify-dashboard/
 ├── Spotify_Dashboard.pbix   # Power BI dashboard file
 ├── Spotify.csv              # Source dataset
 ├── README.md                # Project documentation
-└── screenshots/
+└── Images
     ├── Home.png
     ├── Overview.png
     ├── Artist.png
@@ -162,10 +162,3 @@ spotify-dashboard/
 ## 🤝 Contributing
 
 Feel free to fork this repo, suggest improvements, or open an issue if you spot anything!
-
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes only.  
-Spotify data is used under fair use for non-commercial analysis.

@@ -1,4 +1,4 @@
-# 🎵 Spotify Dashboard — Power BI
+# 🎵 Spotify Dashboard 
 
 An interactive Power BI dashboard that analyzes Spotify chart data — covering songs, artists, popularity trends, and album insights across a 18-month period.
 
